@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Cloud Stuff
 - 📫 How to reach me ...[Linkdin:](https://www.linkedin.com/in/uvindu-dharmawardana-57aa13143/)
 - 😄 See my Blog: ... [@Medium:](https://uvindu-52078.medium.com/)
-- ⚡ Fun fact: ...I don't Sleep @night
+- ⚡ Check my portfolio: http://checkuvindu.codes/
 
