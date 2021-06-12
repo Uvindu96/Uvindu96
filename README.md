@@ -1,6 +1,6 @@
 ### Hi! Welcome to my Git Profile 👋
 
-Here are some ideas to get you started:
+Here are some interesting facts about me:
 
 - 🔭 I’m currently working on ... Serverless Computing 
 - 🌱 I’m currently learning ...AWS Cloud Services 
